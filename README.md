@@ -5,7 +5,7 @@
 - 📫 Reach me with my university email: mshikfa@andrew.cmu.edu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Objects with mass can sometimes travel faster than light. Of course, nothing can go at or faster
-        than the "speed of light in a vacuum", but in other propagation medium, like air or water, light travels
+        than the "speed of light in a vacum", but in other propagation medium, like air or water, light travels
         slightly slower which makes it possible for particles with mass to travel faster than light in that medium.
         This nevertheless still requires insane amount of energy but when they do reach the required speeds, they emit
         a characteristic blue light named Cherenkov’s radiation. And now you know why nuclear reactors glow blue.
