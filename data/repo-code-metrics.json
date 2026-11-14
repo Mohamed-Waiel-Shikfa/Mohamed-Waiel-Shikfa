@@ -1,0 +1,758 @@
+{
+  "schema_version": 1,
+  "metric": "filtered_nonblank_noncomment_source_lines",
+  "measured_at": "2026-11-14T14:55:00+00:00",
+  "tool": {
+    "name": "cloc",
+    "version": "2.10"
+  },
+  "policy": {
+    "version": 2,
+    "excluded_directories": [
+      ".cache",
+      ".git",
+      ".hg",
+      ".idea",
+      ".ipynb_checkpoints",
+      ".mypy_cache",
+      ".next",
+      ".nuxt",
+      ".pytest_cache",
+      ".svn",
+      ".tox",
+      ".venv",
+      ".vscode",
+      "__pycache__",
+      "bower_components",
+      "build",
+      "cmake-build-debug",
+      "cmake-build-release",
+      "cmu_graphics",
+      "coverage",
+      "dist",
+      "env",
+      "extern",
+      "external",
+      "generated",
+      "generated-src",
+      "generated_sources",
+      "htmlcov",
+      "node_modules",
+      "out",
+      "site-packages",
+      "submodules",
+      "target",
+      "third-party",
+      "third_party",
+      "vendor",
+      "vendors",
+      "venv"
+    ],
+    "excluded_files": [
+      "cargo.lock",
+      "cmu_112_graphics.py",
+      "cmu_graphics.py",
+      "cmu_graphics_loader.py",
+      "composer.lock",
+      "gemfile.lock",
+      "go.sum",
+      "ieeetran.bst",
+      "ieeetran.cls",
+      "package-lock.json",
+      "pipfile.lock",
+      "pnpm-lock.yaml",
+      "poetry.lock",
+      "uv.lock",
+      "yarn.lock"
+    ],
+    "included_extensions": [
+      ".bash",
+      ".bib",
+      ".c",
+      ".cc",
+      ".cfg",
+      ".cjs",
+      ".clj",
+      ".cljs",
+      ".cmake",
+      ".cpp",
+      ".cs",
+      ".css",
+      ".cxx",
+      ".erl",
+      ".ex",
+      ".exs",
+      ".fish",
+      ".frag",
+      ".fun",
+      ".geom",
+      ".glsl",
+      ".go",
+      ".gradle",
+      ".h",
+      ".hh",
+      ".hpp",
+      ".hrl",
+      ".hs",
+      ".htm",
+      ".html",
+      ".hxx",
+      ".ini",
+      ".ipynb",
+      ".java",
+      ".jl",
+      ".js",
+      ".jsx",
+      ".kt",
+      ".kts",
+      ".less",
+      ".lhs",
+      ".lisp",
+      ".lua",
+      ".m",
+      ".mjs",
+      ".ml",
+      ".mli",
+      ".mm",
+      ".php",
+      ".pl",
+      ".pm",
+      ".pro",
+      ".proto",
+      ".ps1",
+      ".py",
+      ".pyw",
+      ".qbs",
+      ".qml",
+      ".qrc",
+      ".r",
+      ".rb",
+      ".rkt",
+      ".rs",
+      ".sass",
+      ".scad",
+      ".scm",
+      ".scss",
+      ".sdf",
+      ".sh",
+      ".sig",
+      ".sml",
+      ".sql",
+      ".sty",
+      ".sv",
+      ".svelte",
+      ".swift",
+      ".tex",
+      ".toml",
+      ".ts",
+      ".tsx",
+      ".urdf",
+      ".v",
+      ".vert",
+      ".vhd",
+      ".vhdl",
+      ".vue",
+      ".xacro",
+      ".xml",
+      ".yaml",
+      ".yml",
+      ".zsh"
+    ],
+    "included_names": [
+      "cmakelists.txt",
+      "dockerfile",
+      "justfile",
+      "makefile"
+    ],
+    "notebooks": "Code cells only; markdown, metadata, execution counts, and outputs omitted.",
+    "extra_exclusions": [
+      "*.lock",
+      "*.min.js",
+      "*.min.css",
+      "*.bundle.js",
+      "*.map"
+    ],
+    "repository_exclusions": {
+      "ML_in_a_Nutshell_notes": [
+        "*.ipynb (source material)"
+      ]
+    }
+  },
+  "repos": {
+    "15316-Notes": {
+      "head_sha": "6b0afb0dcfc966cb53f8ca4a4d6adb0580e8729c",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:03+00:00",
+      "archive_sha256": "dae9b14b59e7fde7c73eb824b0cb32d0f9b05d094007feee05b9461d3593cdf3",
+      "source_lines": 798,
+      "comment_lines": 148,
+      "blank_lines": 162,
+      "source_files": 4,
+      "languages": {
+        "TeX": {
+          "files": 4,
+          "source_lines": 798
+        }
+      },
+      "pushed_at": "2026-02-16T18:06:38Z"
+    },
+    "Active_Vertical_Perception_System_UGV": {
+      "head_sha": "90ee5f75235a87df1cc857298192ba846fa98782",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:52:55+00:00",
+      "archive_sha256": "b7ecd826b3bc30947dc8a1a4eca4ee8cfcbf06ee2bb7311a1514056f3b095849",
+      "source_lines": 13899,
+      "comment_lines": 1008,
+      "blank_lines": 1364,
+      "source_files": 111,
+      "languages": {
+        "Python": {
+          "files": 79,
+          "source_lines": 8555
+        },
+        "C++": {
+          "files": 8,
+          "source_lines": 2006
+        },
+        "HTML": {
+          "files": 2,
+          "source_lines": 1625
+        },
+        "Bourne Shell": {
+          "files": 4,
+          "source_lines": 421
+        },
+        "JavaScript": {
+          "files": 3,
+          "source_lines": 388
+        },
+        "C/C++ Header": {
+          "files": 2,
+          "source_lines": 300
+        },
+        "QML": {
+          "files": 4,
+          "source_lines": 256
+        },
+        "YAML": {
+          "files": 5,
+          "source_lines": 229
+        },
+        "Dockerfile": {
+          "files": 1,
+          "source_lines": 47
+        },
+        "OpenSCAD": {
+          "files": 1,
+          "source_lines": 27
+        },
+        "CMake": {
+          "files": 1,
+          "source_lines": 25
+        },
+        "XML": {
+          "files": 1,
+          "source_lines": 20
+        }
+      },
+      "pushed_at": "2026-11-13T21:49:47Z"
+    },
+    "Cofactor-Expansion-Research": {
+      "head_sha": "766460de646d366003cb0b861909f42e170d8a44",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:05+00:00",
+      "archive_sha256": "b2ce3ee0f13b832e2498323a156c46cea610b81711e7b869c18f5e173c3beeda",
+      "source_lines": 175,
+      "comment_lines": 219,
+      "blank_lines": 53,
+      "source_files": 3,
+      "languages": {
+        "Python": {
+          "files": 2,
+          "source_lines": 88
+        },
+        "Standard ML": {
+          "files": 1,
+          "source_lines": 87
+        }
+      },
+      "pushed_at": "2024-11-02T19:23:46Z"
+    },
+    "Dim3": {
+      "head_sha": "207386f6e5944197b3d9435590efdb4633a201a9",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:42+00:00",
+      "archive_sha256": "3ab1d889812bef03badca93d492a195c59cc08e80149be59175c5e15a39441ed",
+      "source_lines": 7336,
+      "comment_lines": 402,
+      "blank_lines": 1158,
+      "source_files": 33,
+      "languages": {
+        "HTML": {
+          "files": 7,
+          "source_lines": 3517
+        },
+        "Python": {
+          "files": 16,
+          "source_lines": 2340
+        },
+        "JavaScript": {
+          "files": 10,
+          "source_lines": 1479
+        }
+      },
+      "pushed_at": "2026-05-05T17:55:23Z"
+    },
+    "Edge-project": {
+      "head_sha": "aa80ba954a039b9da8df89147d0e715ea4f95c44",
+      "default_branch": "master",
+      "measured_at": "2026-11-14T14:53:07+00:00",
+      "archive_sha256": "d270d64037217b6eceacf40978eb91526b86b302f9bf51957f6d5ff7064690e4",
+      "source_lines": 456,
+      "comment_lines": 52,
+      "blank_lines": 85,
+      "source_files": 2,
+      "languages": {
+        "Python": {
+          "files": 2,
+          "source_lines": 456
+        }
+      },
+      "pushed_at": "2024-05-23T06:28:21Z"
+    },
+    "Freshmen-Immigration-leetcode-problems": {
+      "head_sha": "d101c9fcaca85b782a990755a06d12460787bac1",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:05+00:00",
+      "archive_sha256": "84b41b9ffc229a2fc8be84aa86b36c95829cfb35c4e8ca2421caf596c3f141ae",
+      "source_lines": 25,
+      "comment_lines": 14,
+      "blank_lines": 0,
+      "source_files": 3,
+      "languages": {
+        "Python": {
+          "files": 3,
+          "source_lines": 25
+        }
+      },
+      "pushed_at": "2024-05-23T06:29:32Z"
+    },
+    "Integration_And_Approximation_notes": {
+      "head_sha": "9a06868a35543974be0bab331b8c305d9c87e83c",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:52:56+00:00",
+      "archive_sha256": "a2b88e435352e6f2bf5729259ff548df1320d79fa65443c9b61cf92be47ea573",
+      "source_lines": 600,
+      "comment_lines": 18,
+      "blank_lines": 177,
+      "source_files": 11,
+      "languages": {
+        "TeX": {
+          "files": 11,
+          "source_lines": 600
+        }
+      },
+      "pushed_at": "2026-04-26T09:28:49Z"
+    },
+    "LifelinesS25": {
+      "head_sha": "c31484cf46bbb0d80ea395d53bd68d4b404ba370",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:04+00:00",
+      "archive_sha256": "1a054d7d68e72e3cfb5a843c0df8e28eea1aeb408552e4d44f070e43069ecb81",
+      "source_lines": 2702,
+      "comment_lines": 271,
+      "blank_lines": 286,
+      "source_files": 28,
+      "languages": {
+        "Python": {
+          "files": 25,
+          "source_lines": 2560
+        },
+        "INI": {
+          "files": 1,
+          "source_lines": 93
+        },
+        "JavaScript": {
+          "files": 1,
+          "source_lines": 33
+        },
+        "YAML": {
+          "files": 1,
+          "source_lines": 16
+        }
+      },
+      "pushed_at": "2025-02-07T17:37:31Z"
+    },
+    "ML_in_a_Nutshell_notes": {
+      "head_sha": "fd8cfda583ae80266de2436664c68025383776d6",
+      "default_branch": "main",
+      "is_fork": false,
+      "measured_at": "2026-11-14T14:54:58+00:00",
+      "archive_sha256": null,
+      "source_lines": 4137,
+      "comment_lines": 54,
+      "blank_lines": 1168,
+      "source_files": 27,
+      "languages": {
+        "TeX": {
+          "files": 27,
+          "source_lines": 4137
+        }
+      },
+      "pushed_at": "2026-04-26T09:28:02Z"
+    },
+    "Modular_Multi_UAV_Systems": {
+      "head_sha": "3b711507a6d171c27eb82ecf67dd2a7e830cabfb",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:52:55+00:00",
+      "archive_sha256": "049fe412ce95a3c197e000899ed05394967f008deab8e48665b96fd5465a1096",
+      "source_lines": 3738,
+      "comment_lines": 2072,
+      "blank_lines": 638,
+      "source_files": 132,
+      "languages": {
+        "Python": {
+          "files": 33,
+          "source_lines": 2626
+        },
+        "YAML": {
+          "files": 96,
+          "source_lines": 793
+        },
+        "HTML": {
+          "files": 2,
+          "source_lines": 316
+        },
+        "INI": {
+          "files": 1,
+          "source_lines": 3
+        }
+      },
+      "pushed_at": "2026-11-13T21:13:24Z"
+    },
+    "Mohamed-Waiel-Shikfa": {
+      "head_sha": "bded6c59e2e8875f0a4cf20c44732b9613358549",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:49+00:00",
+      "archive_sha256": "b6e6429f2b4e4d54c0b392cabc8c1e09e3505aefa324e00ad959b8d5a05c81c3",
+      "source_lines": 0,
+      "comment_lines": 0,
+      "blank_lines": 0,
+      "source_files": 0,
+      "languages": {},
+      "pushed_at": "2026-02-11T07:39:32Z"
+    },
+    "MuJoCo-drones-gym": {
+      "head_sha": "e44850a234f61874ab4e4e731b59e2906e817e67",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:54:09+00:00",
+      "archive_sha256": "d6b36ed3d10d2eaaac27262b5f27df72d2cac21456fad714b8f66dfd9fc82e9c",
+      "source_lines": 5519,
+      "comment_lines": 1365,
+      "blank_lines": 1345,
+      "source_files": 47,
+      "languages": {
+        "Python": {
+          "files": 46,
+          "source_lines": 5484
+        },
+        "TOML": {
+          "files": 1,
+          "source_lines": 35
+        }
+      },
+      "pushed_at": "2026-10-31T20:12:02Z"
+    },
+    "Networking_and_the_Internet_notes": {
+      "head_sha": "717bf56a5256ddaeb5ce8ff751f64675e9e0316f",
+      "default_branch": "master",
+      "measured_at": "2026-11-14T14:53:02+00:00",
+      "archive_sha256": "4ce7f354bdffbdd56ca379c7dcc29bedd086d07d8b5768fb18c2be15d55334b6",
+      "source_lines": 3101,
+      "comment_lines": 115,
+      "blank_lines": 993,
+      "source_files": 25,
+      "languages": {
+        "TeX": {
+          "files": 25,
+          "source_lines": 3101
+        }
+      },
+      "pushed_at": "2026-04-18T18:01:55Z"
+    },
+    "PassTheGame": {
+      "head_sha": "68b95cad4b5d96dd95b39d554f63d3a1476c30d2",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:49+00:00",
+      "archive_sha256": "4997127fb7edcb63630c58f44eba109fcb50f8b640e5ee5f6a2b95da0961b34e",
+      "source_lines": 2638,
+      "comment_lines": 255,
+      "blank_lines": 524,
+      "source_files": 13,
+      "languages": {
+        "Python": {
+          "files": 13,
+          "source_lines": 2638
+        }
+      },
+      "pushed_at": "2026-05-31T17:23:01Z"
+    },
+    "TDD---Ironically-we-don-t-have-a-team-name.": {
+      "head_sha": "fd0b2e584484053fa3e12ac46fd61b1bf86f4d53",
+      "default_branch": "main",
+      "is_fork": true,
+      "measured_at": "2026-11-14T14:54:57+00:00",
+      "archive_sha256": null,
+      "source_lines": 85,
+      "comment_lines": 72,
+      "blank_lines": 29,
+      "source_files": 3,
+      "languages": {
+        "Python": {
+          "files": 2,
+          "source_lines": 54
+        },
+        "YAML": {
+          "files": 1,
+          "source_lines": 31
+        }
+      },
+      "pushed_at": "2024-06-05T09:34:18Z"
+    },
+    "Term-project": {
+      "head_sha": "9efe5a77d5f618f7b5d8fe4439eb08e00550c48d",
+      "default_branch": "master",
+      "measured_at": "2026-11-14T14:53:10+00:00",
+      "archive_sha256": null,
+      "source_lines": 1867,
+      "comment_lines": 287,
+      "blank_lines": 330,
+      "source_files": 19,
+      "languages": {
+        "Python": {
+          "files": 19,
+          "source_lines": 1867
+        }
+      },
+      "pushed_at": "2023-12-02T09:01:38Z"
+    },
+    "arcade-box-15112": {
+      "head_sha": "877b55157062c14a548794d4f4ecd0648a8aa0af",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:54:10+00:00",
+      "archive_sha256": "bd02bf032fc790b491d6b0ed7ff1252b2f25eeedb8c2543712c5373113477198",
+      "source_lines": 174,
+      "comment_lines": 32,
+      "blank_lines": 57,
+      "source_files": 4,
+      "languages": {
+        "Python": {
+          "files": 3,
+          "source_lines": 156
+        },
+        "TeX": {
+          "files": 1,
+          "source_lines": 18
+        }
+      },
+      "pushed_at": "2024-12-03T18:09:36Z"
+    },
+    "collective_intelligence_notes": {
+      "head_sha": "0c9905ffdbb68e3ffd92b02ea518c8a279b59fea",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:51+00:00",
+      "archive_sha256": "423a5bf74d1c23b0b104eb3f52c102a957a1cace111074e936137905652e7277",
+      "source_lines": 3191,
+      "comment_lines": 150,
+      "blank_lines": 887,
+      "source_files": 25,
+      "languages": {
+        "TeX": {
+          "files": 25,
+          "source_lines": 3191
+        }
+      },
+      "pushed_at": "2025-12-12T10:03:46Z"
+    },
+    "desktop-cmu-graphics": {
+      "head_sha": "6c124b60b8789a3c0cdf0ed07d21182cb49dbad9",
+      "default_branch": "main",
+      "is_fork": true,
+      "measured_at": "2026-11-14T14:55:00+00:00",
+      "archive_sha256": null,
+      "source_lines": 2254,
+      "comment_lines": 502,
+      "blank_lines": 692,
+      "source_files": 62,
+      "languages": {
+        "Python": {
+          "files": 56,
+          "source_lines": 2152
+        },
+        "YAML": {
+          "files": 3,
+          "source_lines": 63
+        },
+        "INI": {
+          "files": 1,
+          "source_lines": 22
+        },
+        "TOML": {
+          "files": 1,
+          "source_lines": 16
+        },
+        "Bourne Shell": {
+          "files": 1,
+          "source_lines": 1
+        }
+      },
+      "pushed_at": "2025-04-06T20:35:45Z"
+    },
+    "epm-review": {
+      "head_sha": "136f4e69eb5ef4830f571ca2c96a222dc3031bd5",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:52:53+00:00",
+      "archive_sha256": "1ead1e6b6be9979d0da356211322aeda105ef825b94734d784baf0300aaba405",
+      "source_lines": 4780,
+      "comment_lines": 72,
+      "blank_lines": 661,
+      "source_files": 45,
+      "languages": {
+        "TeX": {
+          "files": 42,
+          "source_lines": 4587
+        },
+        "Python": {
+          "files": 2,
+          "source_lines": 175
+        },
+        "make": {
+          "files": 1,
+          "source_lines": 18
+        }
+      },
+      "pushed_at": "2026-11-13T22:29:57Z"
+    },
+    "gym-pybullet-drones": {
+      "head_sha": "88d5a503079aa21ca7217713e12bdd4e515516c5",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:53:47+00:00",
+      "archive_sha256": "b7b4b502f0e54db91a0adcca8cf1b37ab3db7ed46f74d7bb3e9dcc7441a210bf",
+      "source_lines": 3267,
+      "comment_lines": 1590,
+      "blank_lines": 855,
+      "source_files": 38,
+      "languages": {
+        "Python": {
+          "files": 28,
+          "source_lines": 2876
+        },
+        "XML": {
+          "files": 5,
+          "source_lines": 284
+        },
+        "Bourne Shell": {
+          "files": 2,
+          "source_lines": 44
+        },
+        "YAML": {
+          "files": 2,
+          "source_lines": 35
+        },
+        "TOML": {
+          "files": 1,
+          "source_lines": 28
+        }
+      },
+      "pushed_at": "2026-10-31T20:11:58Z"
+    },
+    "magsim": {
+      "head_sha": "1f0787cfe133cf89767b9564fd04660da9c60551",
+      "default_branch": "main",
+      "measured_at": "2026-11-14T14:52:53+00:00",
+      "archive_sha256": "fe3add59612c265b2864cabd99c9cb1ef73bdcdcf861360faaffde7e6704e8b8",
+      "source_lines": 11512,
+      "comment_lines": 1976,
+      "blank_lines": 2140,
+      "source_files": 76,
+      "languages": {
+        "Python": {
+          "files": 59,
+          "source_lines": 10668
+        },
+        "YAML": {
+          "files": 14,
+          "source_lines": 431
+        },
+        "TeX": {
+          "files": 1,
+          "source_lines": 367
+        },
+        "TOML": {
+          "files": 2,
+          "source_lines": 46
+        }
+      },
+      "pushed_at": "2026-11-13T22:29:43Z"
+    },
+    "matrices-notes": {
+      "head_sha": "ec709317362e8e5a07d8ad58e4e98afdf0fef9ef",
+      "default_branch": "master",
+      "measured_at": "2026-11-14T14:54:11+00:00",
+      "archive_sha256": "88a19f0f2711426d0fbda9741667df5bd743f774576c7a1ff1c9d0668c47e267",
+      "source_lines": 925,
+      "comment_lines": 0,
+      "blank_lines": 171,
+      "source_files": 2,
+      "languages": {
+        "TeX": {
+          "files": 2,
+          "source_lines": 925
+        }
+      },
+      "pushed_at": "2024-11-21T02:41:46Z"
+    },
+    "r36s_handheld_console": {
+      "head_sha": "f9bc051592d5a494c12f72be10004a32936160d8",
+      "default_branch": "master",
+      "measured_at": "2026-11-14T14:52:54+00:00",
+      "archive_sha256": "d6d3296828ee41dd0ff6401402663260b89c5bf9a614cc04362adc8fad3b4b76",
+      "source_lines": 2067,
+      "comment_lines": 206,
+      "blank_lines": 372,
+      "source_files": 10,
+      "languages": {
+        "Python": {
+          "files": 5,
+          "source_lines": 1676
+        },
+        "Bourne Shell": {
+          "files": 5,
+          "source_lines": 391
+        }
+      },
+      "pushed_at": "2026-11-13T20:16:33Z"
+    },
+    "scs-senior-thesis-template": {
+      "head_sha": "d398f5cf43d25c83e9c090ef4e581b001fc02971",
+      "default_branch": "master",
+      "measured_at": "2026-11-14T14:53:48+00:00",
+      "archive_sha256": "99c39f72845afda097040122b5c66f537e08a2eba2d7421e0183c34b5482ba05",
+      "source_lines": 242,
+      "comment_lines": 17,
+      "blank_lines": 71,
+      "source_files": 10,
+      "languages": {
+        "TeX": {
+          "files": 9,
+          "source_lines": 229
+        },
+        "make": {
+          "files": 1,
+          "source_lines": 13
+        }
+      },
+      "pushed_at": "2026-08-19T18:52:52Z"
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "metric": "github_authored_commits_on_default_branch",
+  "measured_at": "2026-11-14T14:56:27+00:00",
+  "repos": {
+    "15316-Notes": {
+      "head_sha": "6b0afb0dcfc966cb53f8ca4a4d6adb0580e8729c",
+      "pushed_at": "2026-02-16T18:06:38Z",
+      "commits": 8
+    },
+    "Active_Vertical_Perception_System_UGV": {
+      "head_sha": "90ee5f75235a87df1cc857298192ba846fa98782",
+      "pushed_at": "2026-11-13T21:49:47Z",
+      "commits": 1
+    },
+    "Cofactor-Expansion-Research": {
+      "head_sha": "766460de646d366003cb0b861909f42e170d8a44",
+      "pushed_at": "2024-11-02T19:23:46Z",
+      "commits": 7
+    },
+    "Dim3": {
+      "head_sha": "207386f6e5944197b3d9435590efdb4633a201a9",
+      "pushed_at": "2026-05-05T17:55:23Z",
+      "commits": 41
+    },
+    "Edge-project": {
+      "head_sha": "aa80ba954a039b9da8df89147d0e715ea4f95c44",
+      "pushed_at": "2024-05-23T06:28:21Z",
+      "commits": 3
+    },
+    "Freshmen-Immigration-leetcode-problems": {
+      "head_sha": "d101c9fcaca85b782a990755a06d12460787bac1",
+      "pushed_at": "2024-05-23T06:29:32Z",
+      "commits": 3
+    },
+    "Integration_And_Approximation_notes": {
+      "head_sha": "9a06868a35543974be0bab331b8c305d9c87e83c",
+      "pushed_at": "2026-04-26T09:28:49Z",
+      "commits": 4
+    },
+    "LifelinesS25": {
+      "head_sha": "c31484cf46bbb0d80ea395d53bd68d4b404ba370",
+      "pushed_at": "2025-02-07T17:37:31Z",
+      "commits": 9
+    },
+    "ML_in_a_Nutshell_notes": {
+      "head_sha": "fd8cfda583ae80266de2436664c68025383776d6",
+      "pushed_at": "2026-04-26T09:28:02Z",
+      "commits": 13
+    },
+    "Modular_Multi_UAV_Systems": {
+      "head_sha": "3b711507a6d171c27eb82ecf67dd2a7e830cabfb",
+      "pushed_at": "2026-11-13T21:13:24Z",
+      "commits": 1
+    },
+    "Mohamed-Waiel-Shikfa": {
+      "head_sha": "bded6c59e2e8875f0a4cf20c44732b9613358549",
+      "pushed_at": "2026-02-11T07:39:32Z",
+      "commits": 2
+    },
+    "MuJoCo-drones-gym": {
+      "head_sha": "e44850a234f61874ab4e4e731b59e2906e817e67",
+      "pushed_at": "2026-10-31T20:12:02Z",
+      "commits": 1
+    },
+    "Networking_and_the_Internet_notes": {
+      "head_sha": "717bf56a5256ddaeb5ce8ff751f64675e9e0316f",
+      "pushed_at": "2026-04-18T18:01:55Z",
+      "commits": 2
+    },
+    "PassTheGame": {
+      "head_sha": "68b95cad4b5d96dd95b39d554f63d3a1476c30d2",
+      "pushed_at": "2026-05-31T17:23:01Z",
+      "commits": 0
+    },
+    "TDD---Ironically-we-don-t-have-a-team-name.": {
+      "head_sha": "fd0b2e584484053fa3e12ac46fd61b1bf86f4d53",
+      "pushed_at": "2024-06-05T09:34:18Z",
+      "commits": 9
+    },
+    "Term-project": {
+      "head_sha": "9efe5a77d5f618f7b5d8fe4439eb08e00550c48d",
+      "pushed_at": "2023-12-02T09:01:38Z",
+      "commits": 93
+    },
+    "arcade-box-15112": {
+      "head_sha": "877b55157062c14a548794d4f4ecd0648a8aa0af",
+      "pushed_at": "2024-12-03T18:09:36Z",
+      "commits": 1
+    },
+    "collective_intelligence_notes": {
+      "head_sha": "0c9905ffdbb68e3ffd92b02ea518c8a279b59fea",
+      "pushed_at": "2025-12-12T10:03:46Z",
+      "commits": 4
+    },
+    "desktop-cmu-graphics": {
+      "head_sha": "6c124b60b8789a3c0cdf0ed07d21182cb49dbad9",
+      "pushed_at": "2025-04-06T20:35:45Z",
+      "commits": 36
+    },
+    "epm-review": {
+      "head_sha": "136f4e69eb5ef4830f571ca2c96a222dc3031bd5",
+      "pushed_at": "2026-11-13T22:29:57Z",
+      "commits": 1
+    },
+    "gym-pybullet-drones": {
+      "head_sha": "88d5a503079aa21ca7217713e12bdd4e515516c5",
+      "pushed_at": "2026-10-31T20:11:58Z",
+      "commits": 1
+    },
+    "magsim": {
+      "head_sha": "1f0787cfe133cf89767b9564fd04660da9c60551",
+      "pushed_at": "2026-11-13T22:29:43Z",
+      "commits": 1
+    },
+    "matrices-notes": {
+      "head_sha": "ec709317362e8e5a07d8ad58e4e98afdf0fef9ef",
+      "pushed_at": "2024-11-21T02:41:46Z",
+      "commits": 0
+    },
+    "r36s_handheld_console": {
+      "head_sha": "f9bc051592d5a494c12f72be10004a32936160d8",
+      "pushed_at": "2026-11-13T20:16:33Z",
+      "commits": 1
+    },
+    "scs-senior-thesis-template": {
+      "head_sha": "d398f5cf43d25c83e9c090ef4e581b001fc02971",
+      "pushed_at": "2026-08-19T18:52:52Z",
+      "commits": 1
+    }
+  }
+}

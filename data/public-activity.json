@@ -1,0 +1,80 @@
+{
+  "snapshot_at": "2026-11-13T22:55:38+00:00",
+  "repos": [
+    {
+      "name": "epm-review",
+      "language": "TeX",
+      "pushed_at": "2026-11-13T22:29:57Z"
+    },
+    {
+      "name": "magsim",
+      "language": "Python",
+      "pushed_at": "2026-11-13T22:29:43Z"
+    },
+    {
+      "name": "Active_Vertical_Perception_System_UGV",
+      "language": "Python",
+      "pushed_at": "2026-11-13T21:49:47Z"
+    },
+    {
+      "name": "Modular_Multi_UAV_Systems",
+      "language": "Python",
+      "pushed_at": "2026-11-13T21:13:24Z"
+    },
+    {
+      "name": "r36s_handheld_console",
+      "language": "Python",
+      "pushed_at": "2026-11-13T20:16:33Z"
+    },
+    {
+      "name": "Dim3",
+      "language": "Jupyter Notebook",
+      "pushed_at": "2026-05-05T17:55:23Z"
+    },
+    {
+      "name": "Integration_And_Approximation_notes",
+      "language": "TeX",
+      "pushed_at": "2026-04-26T09:28:49Z"
+    },
+    {
+      "name": "ML_in_a_Nutshell_notes",
+      "language": "Jupyter Notebook",
+      "pushed_at": "2026-04-26T09:28:02Z"
+    },
+    {
+      "name": "Networking_and_the_Internet_notes",
+      "language": "TeX",
+      "pushed_at": "2026-04-18T18:01:55Z"
+    },
+    {
+      "name": "15316-Notes",
+      "language": "TeX",
+      "pushed_at": "2026-02-16T18:06:38Z"
+    },
+    {
+      "name": "LifelinesS25",
+      "language": "Python",
+      "pushed_at": "2025-02-07T17:37:31Z"
+    },
+    {
+      "name": "Cofactor-Expansion-Research",
+      "language": "Python",
+      "pushed_at": "2024-11-02T19:23:46Z"
+    },
+    {
+      "name": "Freshmen-Immigration-leetcode-problems",
+      "language": "Python",
+      "pushed_at": "2024-05-23T06:29:32Z"
+    },
+    {
+      "name": "Edge-project",
+      "language": "Python",
+      "pushed_at": "2024-05-23T06:28:21Z"
+    },
+    {
+      "name": "Term-project",
+      "language": "Python",
+      "pushed_at": "2023-12-02T09:01:38Z"
+    }
+  ]
+}

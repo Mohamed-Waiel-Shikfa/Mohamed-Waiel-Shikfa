@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
+<title id="title">Still curious. Still building.</title><desc id="desc">Still curious. Still building.</desc>
+<style>
+.type-reveal{transform-origin:42px 0;animation:type-reveal 7s steps(30,end) infinite}@keyframes type-reveal{0%,8%{transform:scaleX(0)}52%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
+.flow{stroke-dasharray:5 10;animation:flow 8s linear infinite}
+.float{animation:float 6s ease-in-out infinite}
+.spin{animation:spin .65s linear infinite}
+.scan{animation:scan 7s ease-in-out infinite}
+.pulse{animation:pulse 4s ease-in-out infinite}
+.eq{transform-box:fill-box;transform-origin:center bottom;animation:eq 1.6s ease-in-out infinite alternate}
+.game-ball{animation:game-ball 6s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-120}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes scan{0%,100%{transform:translateY(-48px);opacity:.25}50%{transform:translateY(48px);opacity:.85}}
+@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes eq{from{transform:scaleY(.35)}to{transform:scaleY(1)}}
+@keyframes game-ball{0%,100%{transform:translate(0,0)}30%{transform:translate(43px,-22px)}65%{transform:translate(73px,12px)}}
+@media(prefers-reduced-motion:reduce){.anim{animation:none!important}}
+</style>
+<defs>
+ <radialGradient id="glow"><stop stop-color="#91f2cc" stop-opacity=".14"/><stop offset="1" stop-color="#090e1b" stop-opacity="0"/></radialGradient>
+ <radialGradient id="violet"><stop stop-color="#b5a4ff" stop-opacity=".13"/><stop offset="1" stop-color="#090e1b" stop-opacity="0"/></radialGradient>
+ <linearGradient id="silk" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11182c"/><stop offset=".48" stop-color="#090e1b"/><stop offset="1" stop-color="#0b1b25"/></linearGradient>
+ <filter id="grain"><feTurbulence type="fractalNoise" baseFrequency=".72" numOctaves="3" stitchTiles="stitch" seed="7"/><feColorMatrix type="saturate" values="0"/></filter>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#a8bcc8" opacity=".13"/></pattern>
+ <filter id="bloom" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<defs><clipPath id="panel-clip"><rect x="1" y="1" width="598" height="168" rx="20"/></clipPath></defs><g clip-path="url(#panel-clip)"><rect x="1" y="1" width="598" height="168" rx="20" fill="url(#silk)" stroke="#2a3a50"/><ellipse cx="498.0" cy="44.2" rx="252.0" ry="122.39999999999999" fill="url(#violet)"/><ellipse cx="450.0" cy="153.0" rx="258.0" ry="103.7" fill="url(#glow)"/><path d="M270.00 168C432.00 110.50 300.00 57.80 598 8.50" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><path d="M290.40 168C444.00 110.50 321.00 57.80 598 17.85" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><path d="M310.80 168C456.00 110.50 342.00 57.80 598 27.20" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><path d="M331.20 168C468.00 110.50 363.00 57.80 598 36.55" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><path d="M351.60 168C480.00 110.50 384.00 57.80 598 45.90" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><path d="M372.00 168C492.00 110.50 405.00 57.80 598 55.25" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><path d="M392.40 168C504.00 110.50 426.00 57.80 598 64.60" fill="none" stroke="#b5a4ff" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" opacity=".07"/><rect x="2" y="2" width="596" height="166" rx="19" fill="#edf5f1" filter="url(#grain)" opacity=".025"/></g><text x="28" y="52" fill="#91f2cc" font-family="DejaVu Sans Mono, monospace" font-size="20" font-weight="600" >STILL CURIOUS. STILL BUILDING.</text><text x="28" y="93" fill="#a8bcc8" font-family="DejaVu Sans, Arial, sans-serif" font-size="19" font-weight="400" >Robots, open source, games, and good food.</text><path d="M28 137h160l12-15 16 28 17-32 16 19h319" fill="none" stroke="#91f2cc" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" class="anim flow"/>
+</svg>
