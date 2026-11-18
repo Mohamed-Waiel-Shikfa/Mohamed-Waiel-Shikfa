@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="470" viewBox="0 0 300 470" role="img" aria-labelledby="title desc">
-<title id="title">CMU Graphics on R36S</title><desc id="desc">GRAPHICS / HANDHELD HARDWARE The same Python games, now in your hands. Porting, input mapping, and rendering optimizations. PYTHON / DARKOS</desc>
+<title id="title">CMU Graphics on R36S</title><desc id="desc">GRAPHICS / HANDHELD HARDWARE CMU 15-112 games ported to the R36S. Porting, input mapping, and rendering optimizations. PYTHON / DARKOS</desc>
 <style>
 .type-reveal{transform-origin:42px 0;animation:type-reveal 7s steps(30,end) infinite}@keyframes type-reveal{0%,8%{transform:scaleX(0)}52%,90%{transform:scaleX(1)}100%{transform:scaleX(0)}}
 .flow{stroke-dasharray:5 10;animation:flow 8s linear infinite}

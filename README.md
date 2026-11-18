@@ -17,7 +17,7 @@ I'm **Mohamed**, a **Computer Science senior at Carnegie Mellon University in Qa
 
 ### 01 / Research & simulations
 
-Robots that assemble, magnets that switch, and cameras that find a better viewpoint.
+My research focuses on modular drones, magnetic mechanisms, and camera positioning for robots.
 
 <p align="center">
 <a href="https://github.com/Mohamed-Waiel-Shikfa/Modular_Multi_UAV_Systems"><picture><source media="(max-width: 600px)" srcset="assets/project-uav-mobile.svg" /><img src="assets/project-uav.svg" width="100%" alt="Modular Multi-UAV Systems — senior honors thesis. Dodecahedral modules reconfigure between structures in an animated concept study. Idealized assembly and coordinated flight run in PyBullet and MuJoCo." /></picture></a>
@@ -39,7 +39,7 @@ Robots that assemble, magnets that switch, and cameras that find a better viewpo
 
 ### 02 / Graphics & learning tools
 
-From the library behind a first Python game to the arcade machine and handheld that run it.
+I contribute to CMU Graphics and work on tools and hardware for running student games.
 
 <p align="center">
 <a href="https://github.com/cmu-cs-academy/desktop-cmu-graphics/pulls?q=is%3Apr+author%3AMohamed-Waiel-Shikfa"><picture><source media="(max-width: 600px)" srcset="assets/project-graphics-mobile.svg" /><img src="assets/project-graphics.svg" width="49%" alt="CMU Graphics — upstream contributions including a merged sound-engine rewrite and resizing fix." /></picture></a>
@@ -51,13 +51,13 @@ From the library behind a first Python game to the arcade machine and handheld t
 <a href="https://github.com/Mohamed-Waiel-Shikfa/Edge-project"><picture><source media="(max-width: 600px)" srcset="assets/project-logic-mobile.svg" /><img src="assets/project-logic.svg" width="49%" alt="Logic Gate Simulator — a Python/Pygame digital-logic sandbox built for CMU-Q’s Edge program." /></picture></a>
 </p>
 
-My CMU Graphics contributions include the merged [sound-engine rewrite](https://github.com/cmu-cs-academy/desktop-cmu-graphics/pull/74), [window-resizing fix](https://github.com/cmu-cs-academy/desktop-cmu-graphics/pull/64), and [test maintenance](https://github.com/cmu-cs-academy/desktop-cmu-graphics/pull/100). I also contributed to the **CMU-Q arcade machines** and was responsible for it for a time.
+My merged CMU Graphics contributions include a [sound-engine rewrite](https://github.com/cmu-cs-academy/desktop-cmu-graphics/pull/74), a [window-resizing fix](https://github.com/cmu-cs-academy/desktop-cmu-graphics/pull/64), and [test maintenance](https://github.com/cmu-cs-academy/desktop-cmu-graphics/pull/100). I also contributed to the **CMU-Q arcade machines** and helped maintain them.
 
 <a name="coursework"></a>
 
 ### 03 / Coursework & experiments
 
-Places where a class question became a project of its own.
+A few projects from my courses and experiments outside class.
 
 <p align="center">
 <a href="https://github.com/Mohamed-Waiel-Shikfa/Dim3"><picture><source media="(max-width: 600px)" srcset="assets/project-dim3-mobile.svg" /><img src="assets/project-dim3.svg" width="49%" alt="Dim3 — 3D object-understanding course project with mesh, point-cloud, voxel, and graph preprocessing and a web interface." /></picture></a>
@@ -75,7 +75,7 @@ Also: [Cofactor Expansion](https://github.com/Mohamed-Waiel-Shikfa/Cofactor-Expa
 
 ### 04 / Notes & shared notebooks
 
-Writing things down is part of how I learn them. Six notebooks, ready to open.
+Some course notes I've made or contributed to that saved me in more than a few battles with exams.
 
 <p align="center">
 <a href="https://github.com/Mohamed-Waiel-Shikfa/Integration_And_Approximation_notes"><picture><source media="(max-width: 600px)" srcset="assets/note-calculus-mobile.svg" /><img src="assets/note-calculus.svg" width="32%" alt="Integration and approximation — my LaTeX course notes." /></picture></a>
