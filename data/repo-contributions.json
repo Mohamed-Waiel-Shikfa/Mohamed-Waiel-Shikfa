@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "metric": "github_authored_commits_on_default_branch",
-  "measured_at": "2026-11-20T11:57:16+00:00",
+  "measured_at": "2026-11-21T11:28:21+00:00",
   "repos": {
     "15316-Notes": {
       "head_sha": "6b0afb0dcfc966cb53f8ca4a4d6adb0580e8729c",
@@ -37,6 +37,11 @@
       "head_sha": "9a06868a35543974be0bab331b8c305d9c87e83c",
       "pushed_at": "2026-04-26T09:28:49Z",
       "commits": 4
+    },
+    "Intermag_2027_Digest": {
+      "head_sha": "3237641ba20f6d24192f827d9425a1c58126165e",
+      "pushed_at": "2026-11-20T21:55:16Z",
+      "commits": 1
     },
     "LifelinesS25": {
       "head_sha": "c31484cf46bbb0d80ea395d53bd68d4b404ba370",

@@ -1,6 +1,11 @@
 {
-  "snapshot_at": "2026-11-13T22:55:38+00:00",
+  "snapshot_at": "2026-11-21T11:27:41+00:00",
   "repos": [
+    {
+      "name": "Intermag_2027_Digest",
+      "language": "TeX",
+      "pushed_at": "2026-11-20T21:55:16Z"
+    },
     {
       "name": "epm-review",
       "language": "TeX",

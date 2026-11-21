@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "metric": "filtered_nonblank_noncomment_source_lines",
-  "measured_at": "2026-11-20T11:57:02+00:00",
+  "measured_at": "2026-11-21T11:28:08+00:00",
   "tool": {
     "name": "cloc",
     "version": "2.06"
@@ -367,6 +367,25 @@
         }
       },
       "pushed_at": "2026-04-26T09:28:49Z"
+    },
+    "Intermag_2027_Digest": {
+      "head_sha": "3237641ba20f6d24192f827d9425a1c58126165e",
+      "default_branch": "main",
+      "is_fork": false,
+      "generated_head": false,
+      "measured_at": "2026-11-21T11:28:08+00:00",
+      "archive_sha256": "e9dd8f2efa96a2f19893939b8b6b14485beb18ad3afb27235f4f4f41d2f68cbc",
+      "source_lines": 850,
+      "comment_lines": 11,
+      "blank_lines": 323,
+      "source_files": 4,
+      "languages": {
+        "TeX": {
+          "files": 4,
+          "source_lines": 850
+        }
+      },
+      "pushed_at": "2026-11-20T21:55:16Z"
     },
     "LifelinesS25": {
       "head_sha": "c31484cf46bbb0d80ea395d53bd68d4b404ba370",
